@@ -1,5 +1,6 @@
 
-TARGET=string_append_malloc
+TARGET=maxTextCount
+
 
 CSRCS= $(TARGET).c
 CSRCS+= 
